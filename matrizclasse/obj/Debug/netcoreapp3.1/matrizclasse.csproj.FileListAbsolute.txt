@@ -1,0 +1,13 @@
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\bin\Debug\netcoreapp3.1\matrizclasse.exe
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\bin\Debug\netcoreapp3.1\matrizclasse.deps.json
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\bin\Debug\netcoreapp3.1\matrizclasse.runtimeconfig.json
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\bin\Debug\netcoreapp3.1\matrizclasse.runtimeconfig.dev.json
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\bin\Debug\netcoreapp3.1\matrizclasse.dll
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\bin\Debug\netcoreapp3.1\matrizclasse.pdb
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\obj\Debug\netcoreapp3.1\matrizclasse.csprojAssemblyReference.cache
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\obj\Debug\netcoreapp3.1\matrizclasse.AssemblyInfoInputs.cache
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\obj\Debug\netcoreapp3.1\matrizclasse.AssemblyInfo.cs
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\obj\Debug\netcoreapp3.1\matrizclasse.csproj.CoreCompileInputs.cache
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\obj\Debug\netcoreapp3.1\matrizclasse.dll
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\obj\Debug\netcoreapp3.1\matrizclasse.pdb
+C:\Users\familia\source\repos\matrizclasse\matrizclasse\obj\Debug\netcoreapp3.1\matrizclasse.genruntimeconfig.cache
